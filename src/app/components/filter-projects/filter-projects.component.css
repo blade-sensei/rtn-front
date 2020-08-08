@@ -2,9 +2,8 @@
   width: 100%;
   height: 45px;
   font-size: 1em;
-  background-color: rgb(40, 46, 104);
-  color: rgb(255, 255, 255);
-  border: 1px solid rgb(46, 199, 237);
+  color: black;
+  border: 1px solid rgb(83, 82, 82);
   padding: 8px 7px;
   box-sizing: border-box;
   border-radius: 3px;
@@ -12,7 +11,7 @@
 }
 
 .search-input:focus {
-  border-color: rgb(0, 255, 149);
+  border-color: rgb(29, 206, 50);
 }
 
 .clear-search-input {
@@ -20,6 +19,6 @@
   position: relative;
   top: -30px;
   right: 10px;
-  color: rgb(46, 199, 237);
+  color:  rgb(29, 206, 50);
   cursor: pointer;
 }

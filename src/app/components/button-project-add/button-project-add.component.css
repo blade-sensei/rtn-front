@@ -1,10 +1,10 @@
 .icon-plus-square {
   cursor: pointer;
-  color: #2ec7ed;
+  color: rgb(29, 206, 50);
 }
 
 .icon-plus-square:hover {
-  color: #3fe854;
+  color: rgb(124, 219, 135);
   border-color: #3fe854;
   cursor: pointer;
 }
