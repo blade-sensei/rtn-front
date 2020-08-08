@@ -1,16 +1,16 @@
 .editior-input {
   width: 100%;
   font-size: 1em;
-  background-color: rgb(40, 46, 104);
-  color: rgb(255, 255, 255);
-  border: 1px solid rgb(39, 199, 236);
+  background-color: white;
+  color: black;
+  border: 1px solid black;
   padding: 8px 7px;
   box-sizing: border-box;
   border-radius: 3px;
 }
 
 .editior-input:focus {
-  border-color: rgb(63, 232, 84);
+  border-color: rgb(10, 184, 31);
 }
 
 .editor-title {

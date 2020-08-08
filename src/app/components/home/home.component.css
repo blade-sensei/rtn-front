@@ -16,6 +16,9 @@
   display: block;
   padding: 30px;
   text-align: center;
+  background-color: #dbdeee;
+  margin-top: 10px;
+  font-size: 1.1em;
 }
 
 @media screen and (min-width: 721px) {

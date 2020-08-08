@@ -20,7 +20,7 @@
   border: none;
 }
 .modal-content-editor {
-  background-color: #282d69;
+  background-color: white;
   padding: 11px 12px;
   box-sizing: border-box;
 }
@@ -48,7 +48,7 @@
 }
 
 .btn-save {
-  background-color: rgb(39, 199, 236);
+  background-color: #38ce32;
   color: rgb(0, 0, 0);
   border: none;
   display: block;
@@ -56,30 +56,30 @@
   float: left;
   height: 40px;
   width: 100%;
-  font-size: 0.9em;
+  font-size: 1.1em;
 }
 
 .btn-save:disabled {
   cursor: none;
   pointer-events: none;
-  background-color: #75cade;
+  background-color: #d1f1cf;
   color: gray
 }
 
 .btn-save:hover {
-  background-color: #27ec48;
+  background-color: #73e06f;
   cursor: pointer;
 }
 
 .close-modal-icon {
   float: right;
   float: right;
-  color: rgb(39, 199, 236);
+  color: #38ce32;
   margin-top: 10px;
   margin-right: 10px;
   cursor: pointer;
 }
 
 .close-modal-icon:hover {
-  color: #27ec48;
+  color: #7fec91;
 }

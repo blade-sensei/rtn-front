@@ -28,7 +28,6 @@
 
 .section-item {
   display: block;
-  font-family: "Space Mono", monospace;
   font-size: 1.2em;
   line-height: 50px;
   color: black;
@@ -64,7 +63,7 @@ div.nav-title {
 .navbar-btn {
   background-color: rgb(50 225 89);
   border: none;
-  color: white;
+  color: black;
   padding: 12px 15px;
   text-align: center;
   text-decoration: none;
