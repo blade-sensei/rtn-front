@@ -1,6 +1,9 @@
 Road to ninja !
 ==
 
+![](https://i.imgur.com/wlT5o8x.gif)
+
+
 ## Demo
 
 Login with: 
@@ -8,24 +11,22 @@ Login with:
 username: demo
 password: demo
 
-https://roadtoninja-f5ad8.firebaseapp.com/login
+https://roadtoninja-f5ad8.firebaseapp.com
 
 
 ## Current Release
 
-This project is a project management tool like. Inspired by trello.
+This project is a project management tool like. Inspired by trello modals edition using mobile first design.
+
+
+## Features
 
 - You list all of your projects 
 - Start a project and all the others are blocked until you finished this one
 - Project edition
 - Project creation
 - This project has basic search engine (search projects)
-
-
-![](https://i.imgur.com/uKbiQNg.png)
-
-![](https://i.imgur.com/oeZoVex.png)
-
+- Mobile First
 
 
 ## Testing
@@ -35,20 +36,12 @@ This project is a project management tool like. Inspired by trello.
 - Code format: Prettier [prettier](https://github.com/prettier/prettier)
 - Home made logger
 
-## Release 2.0
-
-- [x] Allow responsive for mobiles
-- [x] Improve design UI 
-- [ ] Add CI + Docker
-- [ ] Frontend (e2e test) with headless chrome
-- [ ] Use RXJS
-
 Mockups
 ===
 ## Liste projets
 ![](https://i.imgur.com/wrHqPSD.png)
 
-Technical Arch.
+Technical stack.
 ===
 
 ## Stack
@@ -57,7 +50,7 @@ Technical Arch.
   * ExpressJS
   * MongoDB
 - Frontend
-  * Angular 4
+  * Angular 5
   * HTML / CSS
 
 - Coding Style
@@ -71,20 +64,8 @@ Technical Arch.
 
 Git
 ===
-## Utilisation de git
-
-Lien : https://github.com/Coyla/road-to-ninja
-
-- La branche principale est master.
-- Chaque personne travaille sur une "feature" (fonctionnalité), pour cela il faut créer une nouvelle branche.
-- Chaque changement pendant le développement de la feature doit être commit et push sur le serveur Github
-- Une fois le développement de la feature terminé, une pull request sur la branche stable (master) est demandée, et la validation est effectuée par un admin.
-- Les bugs/corrections doivent aussi être faits sur une branche differente.
-
-## Nommage des branches
 
 ### Features
-Pour le développement des TODO et fonctionnalités
 
 ft/[feature-name]
 
@@ -94,7 +75,6 @@ ft/start-project-user
 ```
 
 ### HotFix
-Pour les corrections, la maintenance, les petits changements, le refactoring ...
 
 hf/[hotfix-name]
 
@@ -105,7 +85,6 @@ hf/d123-hf/
 ```
 
 ### BugFix
-Pour les bugs, un bug n'est pas forcement à traiter immédiatement, il sera mis dans un patch de correction.
 
 bf/[bugfix-name]
 ```
@@ -115,4 +94,4 @@ bf/setup-database
 Trello
 ==
 
-Lien du board : https://trello.com/b/UPrATOhl/road-to-ninja
+Board : https://trello.com/b/UPrATOhl/road-to-ninja
