@@ -1,8 +1,15 @@
 Road to ninja !
 ==
 
+
+This project is a project management tool like. Inspired by trello modals edition using mobile first design.
+
+
 ![](https://i.imgur.com/wlT5o8x.gif)
 
+
+## Stack
+![](https://i.imgur.com/5yYrv3S.png)
 
 ## Demo
 
@@ -12,21 +19,6 @@ username: demo
 password: demo
 
 https://roadtoninja-f5ad8.firebaseapp.com
-
-
-## Current Release
-
-This project is a project management tool like. Inspired by trello modals edition using mobile first design.
-
-
-## Features
-
-- You list all of your projects 
-- Start a project and all the others are blocked until you finished this one
-- Project edition
-- Project creation
-- This project has basic search engine (search projects)
-- Mobile First
 
 
 ## Testing
